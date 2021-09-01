@@ -11,7 +11,7 @@
 ## O que é uma To-Do List?
 <p>
 Você sabe oque é uma <strong>To-Do List</strong>? Não? Então vou te explicar! <br><br>
-Uma to-do list não é nada mais do que uma maneira de você se organizar. Anotando tudo o que você tem para fazer durante o dia, semana ou mês. Por isso, criamos este aplicativo que facilita sua vida  
+Uma to-do list não é nada mais do que uma maneira de você se organizar. Anotando tudo o que você tem para fazer durante o dia, semana ou mês.
 </p>
 
 
